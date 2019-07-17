@@ -1,4 +1,11 @@
-# styleTransfer_spell
+# Style Transfer Example Subway Art
+
+This is a simple example of training a neural network (style transfer) from an image to webcam output.
+
+A instruction how the model was trained can be found below. These instructions were composed by [Yining Shi](https://github.com/yining1023) and shared with me at the "Bots and Machine Learning" class at the School of Machines in July 2019.
+
+
+# Using Style Transfer with Spell - Instructions
 Style Transfer example with [ml5.js](http://ml5js.org/), training the model with [Spell.run](https://learn.spell.run/)
 
 #### Demo: [https://yining1023.github.io/styleTransfer_spell/](https://yining1023.github.io/styleTransfer_spell/.)
