@@ -1,4 +1,4 @@
-# Style Transfer Example Subway Art
+# Style Transfer Example - Subway Art
 
 This is a simple example of training a neural network (style transfer) from an image to webcam output.
 
